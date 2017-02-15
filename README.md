@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+ths the second branch i made to learn github
